@@ -1,3 +1,4 @@
+![logo](https://github.com/Anoop-Rajoriya/Anoop-Rajoriya/blob/main/CREATIV%20PERSONE.png)
 <h1 align="center">Hi 👋, I'm Anoop Rajoriya</h1>
 <h3 align="center">A passionate Full-Stack developer from India and 2nd Year collage student</h3>
 
